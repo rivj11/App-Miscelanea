@@ -1,5 +1,5 @@
 # App-Miscelanea
-Welcome to the Inventory repository! This project is a prototype of a PC inventory application, developed using the Python programming language. The main goal of Inventory is to provide an efficient and easy-to-use tool for managing the inventory of a miscellaneous store or any small business that requires basic stock control.
+¡Welcome to the Inventory repository! This project is a prototype of a PC inventory application, developed using the Python programming language. The main goal of Inventory is to provide an efficient and easy-to-use tool for managing the inventory of a miscellaneous store or any small business that requires basic stock control.
 
 Main features (under development)
 
