@@ -51,4 +51,4 @@ ReportLab (generación de PDF)
 Algunas funciones sensibles como eliminar usuarios, borrar historial de ventas o eliminar productos requieren autenticación del administrador mediante clave.
 
 Clave predeterminada: clave123
-(Se puede cambiar fácilmente desde el código fuente
+(Se puede cambiar fácilmente desde el código fuente)
