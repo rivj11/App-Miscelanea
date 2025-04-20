@@ -1,0 +1,41 @@
+Requerimientos Funcionales (RF)
+Estos describen qué hace la aplicación:
+
+RF01 - El sistema debe permitir iniciar sesión con usuario y contraseña.
+
+RF02 - El sistema debe permitir registrar nuevos usuarios.
+
+RF03 - El sistema debe permitir eliminar usuarios, solo si se proporciona la clave del administrador.
+
+RF04 - El sistema debe cerrar la aplicación si se elimina el último usuario registrado.
+
+RF05 - El sistema debe permitir agregar, editar y eliminar productos del inventario.
+
+RF06 - Al eliminar un producto, se debe pedir la clave del administrador.
+
+RF07 - El sistema debe registrar ventas con fecha, hora, productos y cantidad vendida.
+
+RF08 - Se debe generar automáticamente una factura en PDF y guardarse en una carpeta llamada ventas.
+
+RF09 - El sistema debe permitir ver un historial diario de ventas, aunque el producto ya no esté en el inventario.
+
+RF10 - Se debe mostrar el total de ventas, total de gastos y la ganancia neta.
+
+RF11 - La aplicación debe tener una pestaña de configuración para ver usuarios, cambiar el símbolo de la moneda y eliminar usuarios.
+
+⚙️ Requerimientos No Funcionales (RNF)
+Estos describen cómo debe funcionar el sistema en términos de calidad, rendimiento, restricciones, etc.
+
+RNF01 - La aplicación debe desarrollarse en Python utilizando la biblioteca Tkinter.
+
+RNF02 - La base de datos debe ser implementada con SQLite.
+
+RNF03 - La aplicación debe ejecutarse en sistemas operativos Windows.
+
+RNF04 - Las facturas deben generarse en formato PDF y ser legibles e imprimibles.
+
+RNF05 - La aplicación debe tener una interfaz intuitiva y fácil de usar.
+
+RNF06 - Los datos de ventas e inventario deben conservarse entre sesiones.
+
+RNF07 - El sistema debe responder a las acciones del usuario en menos de 2 segundos.

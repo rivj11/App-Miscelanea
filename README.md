@@ -52,3 +52,4 @@ Algunas funciones sensibles como eliminar usuarios, borrar historial de ventas o
 
 Clave predeterminada: clave123
 (Se puede cambiar fácilmente desde el código fuente)
+
