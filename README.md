@@ -1,4 +1,3 @@
-# App-Miscelanea
 # 📦 Inventory App
 
 Una aplicación de escritorio para gestionar inventario, registrar ventas, generar facturas en PDF y hacer seguimiento de ganancias y gastos. Desarrollada en Python con interfaz gráfica usando Tkinter y base de datos SQLite.
