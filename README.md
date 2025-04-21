@@ -20,7 +20,7 @@ Una aplicación de escritorio para gestionar inventario, registrar ventas, gener
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/rivj11/inventory-app.git
+git clone https://github.com/rivj11/App-Miscelanea.git
 cd inventory-app
 
 2. Instalar dependencias
