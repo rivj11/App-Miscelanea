@@ -21,7 +21,7 @@ Una aplicación de escritorio para gestionar inventario, registrar ventas, gener
 ### 1. Clonar el repositorio
 ```bash
 git clone https://github.com/rivj11/App-Miscelanea.git
-cd inventory-app
+cd App-Miscelanea
 
 2. Instalar dependencias
 Asegúrate de tener Python 3.11+ instalado, luego ejecuta:
