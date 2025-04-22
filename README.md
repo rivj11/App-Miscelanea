@@ -28,7 +28,7 @@ Asegúrate de tener Python 3.11+ instalado, luego ejecuta:
 pip install -r requirements.txt
 
 Si no tienes un archivo requirements.txt, las principales dependencias son:
-py -m pip install pillow reportlab pandas fpdf2
+py -m pip install pillow reportlab pandas fpdf2 openpyxl
 
 3. Crear la base de datos
 python database/setup_db.py
